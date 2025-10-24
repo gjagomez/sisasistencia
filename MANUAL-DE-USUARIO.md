@@ -26,10 +26,7 @@
    - 5.10 [Estudios Socioeconómicos](#510-estudios-socioeconómicos)
    - 5.11 [Fondos](#511-fondos)
    - 5.12 [Reportes y Estadísticas](#512-reportes-y-estadísticas)
-6. [Guía por Roles de Usuario](#6-guía-por-roles-de-usuario)
-7. [Preguntas Frecuentes](#7-preguntas-frecuentes)
-8. [Solución de Problemas](#8-solución-de-problemas)
-9. [Glosario](#9-glosario)
+
 
 ---
 
@@ -125,10 +122,10 @@ Para acceder al sistema, necesitará:
 
 Si no puede iniciar sesión:
 
-- ✅ Verifique que está escribiendo correctamente su usuario y contraseña
-- ✅ Asegúrese de que las mayúsculas/minúsculas son correctas
-- ✅ Revise que no tiene activada la tecla Bloq Mayús
-- ✅ Si olvidó su contraseña, contacte al administrador del sistema
+-  Verifique que está escribiendo correctamente su usuario y contraseña
+-  Asegúrese de que las mayúsculas/minúsculas son correctas
+-  Revise que no tiene activada la tecla Bloq Mayús
+-  Si olvidó su contraseña, contacte al administrador del sistema
 
 ### 3.3 Cerrar Sesión
 
@@ -323,10 +320,10 @@ Use la barra de búsqueda en la parte superior de la tabla para filtrar por:
 
 #### 5.2.6 Buenas Prácticas
 
-✅ Siempre registre el DPI o NIT para identificación única
-✅ Verifique que el email y teléfono sean correctos para comunicaciones
-✅ Mantenga actualizada la información de contacto
-✅ Use nombres completos sin abreviaturas
+ Siempre registre el DPI o NIT para identificación única
+ Verifique que el email y teléfono sean correctos para comunicaciones
+ Mantenga actualizada la información de contacto
+ Use nombres completos sin abreviaturas
 
 ---
 
@@ -417,11 +414,11 @@ Para donaciones monetarias, puede generar un certificado:
 
 #### 5.3.6 Buenas Prácticas
 
-✅ Registre las donaciones el mismo día que se reciben
-✅ Sea específico en la descripción de artículos en especie
-✅ Verifique el monto antes de guardar
-✅ Adjunte el recibo de transferencia o cheque como respaldo
-✅ Genere certificados para donadores que lo soliciten (deducción fiscal)
+ Registre las donaciones el mismo día que se reciben
+ Sea específico en la descripción de artículos en especie
+ Verifique el monto antes de guardar
+ Adjunte el recibo de transferencia o cheque como respaldo
+ Genere certificados para donadores que lo soliciten (deducción fiscal)
 
 ---
 
@@ -520,11 +517,11 @@ Permite registrar y administrar las familias beneficiadas por la organización.
 
 #### 5.4.6 Buenas Prácticas
 
-✅ Registre todos los miembros de la familia en el módulo de Beneficiados
-✅ Actualice la cantidad de miembros si hay cambios (nacimientos, fallecimientos)
-✅ Mantenga actualizada la dirección para entregas de asistencia
-✅ Realice estudios socioeconómicos periódicamente
-✅ Documente con fotografías (si la política de la organización lo permite)
+ Registre todos los miembros de la familia en el módulo de Beneficiados
+ Actualice la cantidad de miembros si hay cambios (nacimientos, fallecimientos)
+ Mantenga actualizada la dirección para entregas de asistencia
+ Realice estudios socioeconómicos periódicamente
+ Documente con fotografías (si la política de la organización lo permite)
 
 ---
 
@@ -602,11 +599,11 @@ Permite registrar individualmente a cada miembro de las familias beneficiadas.
 
 #### 5.5.5 Buenas Prácticas
 
-✅ Registre a TODOS los miembros de cada familia, incluyendo bebés
-✅ Actualice el DPI cuando los menores cumplan 18 años
-✅ Verifique que la cantidad de beneficiados coincida con "Cantidad de miembros" de la familia
-✅ Use nombres completos y correctos
-✅ Mantenga actualizado el parentesco (puede cambiar en familias reconstituidas)
+ Registre a TODOS los miembros de cada familia, incluyendo bebés
+ Actualice el DPI cuando los menores cumplan 18 años
+ Verifique que la cantidad de beneficiados coincida con "Cantidad de miembros" de la familia
+ Use nombres completos y correctos
+ Mantenga actualizado el parentesco (puede cambiar en familias reconstituidas)
 
 ---
 
@@ -705,11 +702,11 @@ Puede generar:
 
 #### 5.6.6 Buenas Prácticas
 
-✅ Realice estudios socioeconómicos antes de asignar apadrinamiento
-✅ Finalice apadrinamientos cuando la familia sea autosuficiente
-✅ Comunique al padrino la situación de la familia periódicamente
-✅ Genere reportes anuales para mantener informado al padrino
-✅ Documente con fotos y testimonios (con autorización de la familia)
+ Realice estudios socioeconómicos antes de asignar apadrinamiento
+ Finalice apadrinamientos cuando la familia sea autosuficiente
+ Comunique al padrino la situación de la familia periódicamente
+ Genere reportes anuales para mantener informado al padrino
+ Documente con fotos y testimonios (con autorización de la familia)
 
 ---
 
@@ -828,13 +825,13 @@ El inventario se descuenta automáticamente cuando:
 
 #### 5.7.7 Buenas Prácticas
 
-✅ Registre lotes separados para cada ingreso de mercancía
-✅ Sea específico en el origen del lote (para trazabilidad)
-✅ Ingrese SIEMPRE la fecha de vencimiento de productos perecederos
-✅ Revise semanalmente la pestaña "Próximos a Vencer"
-✅ Use el método FIFO (First In, First Out): entregue primero lo que vence primero
-✅ Realice inventarios físicos mensuales para verificar cantidades
-✅ Deduzca el costo de artículos próximos a vencer del apadrinamiento (como indica el requerimiento)
+ Registre lotes separados para cada ingreso de mercancía
+ Sea específico en el origen del lote (para trazabilidad)
+ Ingrese SIEMPRE la fecha de vencimiento de productos perecederos
+ Revise semanalmente la pestaña "Próximos a Vencer"
+ Use el método FIFO (First In, First Out): entregue primero lo que vence primero
+ Realice inventarios físicos mensuales para verificar cantidades
+ Deduzca el costo de artículos próximos a vencer del apadrinamiento (como indica el requerimiento)
 
 ---
 
@@ -956,13 +953,13 @@ Para generar un comprobante de entrega:
 
 #### 5.8.6 Buenas Prácticas
 
-✅ Registre asistencias el mismo día de la entrega
-✅ Siempre use lotes próximos a vencer primero (método FIFO)
-✅ Genere constancia de entrega y solicite firma del beneficiario
-✅ Sea específico en las observaciones
-✅ Verifique el stock disponible antes de prometer entregas
-✅ Informe al padrino sobre asistencias entregadas a su familia apadrinada
-✅ Tome fotografías de las entregas (con autorización) para reportes
+ Registre asistencias el mismo día de la entrega
+ Siempre use lotes próximos a vencer primero (método FIFO)
+ Genere constancia de entrega y solicite firma del beneficiario
+ Sea específico en las observaciones
+ Verifique el stock disponible antes de prometer entregas
+ Informe al padrino sobre asistencias entregadas a su familia apadrinada
+ Tome fotografías de las entregas (con autorización) para reportes
 
 ---
 
@@ -1078,12 +1075,12 @@ Puede generar reportes estadísticos:
 
 #### 5.9.6 Buenas Prácticas
 
-✅ Registre desastres apenas ocurran para empezar el seguimiento inmediato
-✅ Use nombres descriptivos que incluyan año y ubicación
-✅ Actualice la descripción con nueva información (daños, damnificados)
-✅ Asocie TODAS las familias afectadas aunque aún no reciban ayuda
-✅ Genere reportes periódicos para mantener informados a los donadores
-✅ Mantenga un archivo histórico para análisis de riesgos y patrones
+ Registre desastres apenas ocurran para empezar el seguimiento inmediato
+ Use nombres descriptivos que incluyan año y ubicación
+ Actualice la descripción con nueva información (daños, damnificados)
+ Asocie TODAS las familias afectadas aunque aún no reciban ayuda
+ Genere reportes periódicos para mantener informados a los donadores
+ Mantenga un archivo histórico para análisis de riesgos y patrones
 
 ---
 
@@ -1228,17 +1225,7 @@ Para documentos oficiales:
 3. **Antes de finalizar apadrinamiento:** Para confirmar autosuficiencia
 4. **Después de emergencias:** Para evaluar nuevas necesidades
 
-#### 5.10.7 Buenas Prácticas
 
-✅ Realice estudios en visitas domiciliarias para mayor precisión
-✅ Verifique ingresos con documentos (recibos de pago, contratos)
-✅ Sea objetivo en las conclusiones
-✅ Compare con estudios anteriores para ver progreso
-✅ Use los estudios para tomar decisiones sobre finalización de apadrinamientos
-✅ Mantenga confidencialidad de la información sensible
-✅ Archive los certificados de estudios en el expediente físico de la familia
-
----
 
 ### 5.11 Fondos
 
@@ -1341,15 +1328,6 @@ Periódicamente, concilie los fondos del sistema con las cuentas bancarias:
 3. Verifique que coincidan los saldos
 4. Si hay diferencias, investigue y ajuste
 
-#### 5.11.6 Buenas Prácticas
-
-✅ Cree fondos separados para diferentes propósitos (transparencia)
-✅ Siempre ingrese un concepto descriptivo en cada operación
-✅ Vincule donaciones monetarias al fondo correspondiente
-✅ Realice conciliaciones mensuales con estados bancarios
-✅ No use un fondo para propósitos diferentes a su descripción
-✅ Mantenga un saldo mínimo de emergencia
-✅ Genere reportes de fondos para auditorías y rendición de cuentas
 
 ---
 
@@ -1503,394 +1481,4 @@ Genera reportes detallados y estadísticas sobre todos los aspectos del sistema 
    - Efectividad de apadrinamientos
    - Rotación de inventario
 
-#### 5.12.3 Generar un Reporte
 
-**Pasos generales:**
-
-1. Seleccione el tipo de reporte deseado
-2. Configure los parámetros:
-   - **Rango de fechas:** Desde - Hasta
-   - **Filtros específicos:** Según el reporte
-   - **Formato de salida:** PDF, Excel, Vista previa
-3. Haga clic en **"Generar Reporte"**
-4. El sistema procesará la información
-5. Se mostrará:
-   - Vista previa en pantalla, o
-   - Descarga automática del archivo
-
-#### 5.12.4 Exportar Datos
-
-Puede exportar la mayoría de reportes en:
-
-- **PDF:** Para impresión y archivo oficial
-- **Excel (XLSX):** Para análisis adicional en hojas de cálculo
-- **CSV:** Para importar a otros sistemas
-
-#### 5.12.5 Programar Reportes Automáticos
-
-(Disponible solo para Administradores)
-
-Puede configurar reportes periódicos:
-
-1. Seleccione el reporte
-2. Haga clic en **"Programar Envío"**
-3. Configure:
-   - Frecuencia: Diaria, Semanal, Mensual
-   - Día/hora de envío
-   - Destinatarios (emails)
-   - Formato
-4. El sistema enviará el reporte automáticamente por email
-
-#### 5.12.6 Buenas Prácticas
-
-✅ Genere reportes mensualmente para monitoreo continuo
-✅ Archive reportes importantes en formato PDF
-✅ Use reportes para presentaciones a donadores y directivos
-✅ Analice tendencias para mejorar la gestión
-✅ Comparta reportes de apadrinamientos con los padrinos periódicamente
-✅ Use estadísticas para justificar solicitudes de financiamiento
-✅ Genere reportes anuales para auditorías externas
-
----
-
-## 6. Guía por Roles de Usuario
-
-Esta sección describe las funciones principales de cada tipo de usuario.
-
-### 6.1 Administrador del Sistema
-
-**Responsabilidades:**
-- Gestión completa del sistema
-- Creación y administración de usuarios
-- Configuración del sistema
-- Supervisión general
-
-**Funciones principales:**
-
-1. **Gestionar Usuarios** (Módulo de Usuarios)
-   - Crear nuevos usuarios para el personal
-   - Asignar roles (Administrador, Usuario, Consulta)
-   - Activar/desactivar cuentas
-   - Restablecer contraseñas
-
-2. **Configurar Fondos**
-   - Crear fondos según necesidades de la organización
-   - Autorizar movimientos importantes
-
-3. **Supervisar Operaciones**
-   - Revisar reportes diarios/semanales
-   - Verificar integridad de datos
-   - Aprobar eliminaciones de registros importantes
-
-4. **Auditoría**
-   - Revisar logs de actividad
-   - Generar reportes de auditoría
-   - Verificar conciliaciones
-
-5. **Respaldo y Mantenimiento**
-   - Coordinar respaldos de base de datos
-   - Mantenimiento preventivo del sistema
-
-**Recomendaciones:**
-- Revise el dashboard diariamente
-- Programe reportes automáticos semanales
-- Realice auditorías mensuales
-- Mantenga respaldos actualizados
-
----
-
-### 6.2 Operador/Capturista
-
-**Responsabilidades:**
-- Registro diario de información
-- Captura de donaciones, donadores y familias
-- Actualización de datos
-
-**Funciones principales:**
-
-1. **Registrar Donadores**
-   - Capturar datos de nuevos donadores
-   - Actualizar información de contacto
-
-2. **Registrar Donaciones**
-   - Ingresar donaciones recibidas diariamente
-   - Generar certificados de donación
-
-3. **Registrar Familias y Beneficiados**
-   - Capturar datos de nuevas familias
-   - Registrar miembros de las familias
-   - Actualizar información
-
-4. **Gestionar Apadrinamientos**
-   - Registrar nuevos apadrinamientos
-   - Mantener comunicación con padrinos
-   - Generar reportes para padrinos
-
-5. **Realizar Estudios Socioeconómicos**
-   - Registrar evaluaciones de familias
-   - Documentar progreso
-
-6. **Registrar Desastres**
-   - Ingresar nuevos eventos
-   - Asociar familias afectadas
-
-**Recomendaciones:**
-- Registre información el mismo día
-- Verifique datos antes de guardar
-- Mantenga organizado el flujo de documentos físicos
-- Comuníquese regularmente con las familias
-
----
-
-### 6.3 Personal de Inventario
-
-**Responsabilidades:**
-- Gestión del almacén
-- Control de ingresos y salidas
-- Distribución de artículos
-
-**Funciones principales:**
-
-1. **Gestionar Artículos**
-   - Registrar nuevos artículos en el catálogo
-   - Mantener información actualizada
-
-2. **Gestionar Lotes**
-   - Registrar ingresos de mercancía
-   - Controlar fechas de vencimiento
-   - Alertar sobre artículos próximos a vencer
-
-3. **Registrar Asistencias**
-   - Registrar entregas a familias
-   - Generar constancias de entrega
-   - Verificar firmas de recibido
-
-4. **Inventarios Físicos**
-   - Realizar conteos periódicos
-   - Ajustar diferencias (con autorización)
-   - Reportar mermas o daños
-
-5. **Coordinar Distribución**
-   - Priorizar entregas de artículos próximos a vencer
-   - Planificar logística de entregas
-   - Coordinar con familias
-
-**Recomendaciones:**
-- Revise diariamente artículos próximos a vencer
-- Use método FIFO (primero en entrar, primero en salir)
-- Realice inventarios físicos mensuales
-- Mantenga el almacén ordenado y limpio
-
----
-
-### 6.4 Directivo/Consultor
-
-**Responsabilidades:**
-- Análisis de información
-- Toma de decisiones estratégicas
-- Supervisión general
-
-**Funciones principales:**
-
-1. **Consultar Dashboard**
-   - Monitorear métricas clave
-   - Identificar tendencias
-
-2. **Generar Reportes**
-   - Reportes ejecutivos
-   - Estadísticas de desempeño
-   - Análisis de impacto
-
-3. **Análisis Estratégico**
-   - Evaluar efectividad de programas
-   - Identificar áreas de mejora
-   - Planificar expansión
-
-4. **Presentaciones**
-   - Preparar informes para junta directiva
-   - Reportes para donadores institucionales
-   - Solicitudes de financiamiento
-
-**Recomendaciones:**
-- Revise el dashboard semanalmente
-- Analice tendencias mensuales
-- Compare períodos para medir crecimiento
-- Use gráficos para presentaciones
-
----
-
-## 7. Preguntas Frecuentes
-
-### General
-
-**P: ¿Puedo usar el sistema desde mi teléfono móvil?**
-R: Sí, el sistema es responsive y se adapta a pantallas móviles. Sin embargo, para captura intensiva de datos se recomienda usar computadora.
-
-**P: ¿Se requiere Internet para usar el sistema?**
-R: Depende de la configuración. Si el servidor está en red local (LAN), solo necesita estar conectado a la red. Si está en la nube, sí requiere Internet.
-
-**P: ¿Cuántos usuarios puede tener el sistema?**
-R: No hay límite técnico. Puede tener tantos usuarios como necesite su organización.
-
-### Donadores y Donaciones
-
-**P: ¿Qué hago si un donador dona tanto dinero como artículos?**
-R: Seleccione el tipo "Mixta" y complete tanto el monto monetario como la descripción de especie.
-
-**P: ¿Puedo eliminar una donación registrada por error?**
-R: Solo un Administrador puede eliminar donaciones. Si necesita corregir, edite el registro o contacte al administrador.
-
-**P: ¿Cómo genero certificados de donación para fines fiscales?**
-R: En el listado de donaciones, haga clic en "Certificado" para generar un PDF oficial.
-
-### Familias y Beneficiados
-
-**P: ¿Qué pasa si la cantidad de beneficiados no coincide con la cantidad de miembros de la familia?**
-R: Debe corregirlo. Registre todos los miembros o actualice el campo "Cantidad de miembros" de la familia.
-
-**P: ¿Puedo tener una familia sin beneficiados registrados?**
-R: Técnicamente sí, pero NO es recomendable. Siempre registre al menos al jefe de familia como beneficiado.
-
-**P: Una familia se mudó a otro departamento. ¿Qué hago?**
-R: Edite la familia y actualice la dirección, municipio y departamento. El historial se mantendrá.
-
-### Inventario
-
-**P: ¿Cómo registro artículos sin fecha de vencimiento (ropa, mantas)?**
-R: Deje el campo "Fecha de vencimiento" vacío. Solo es obligatorio para artículos perecederos.
-
-**P: Un lote se dañó o venció. ¿Cómo lo elimino del inventario?**
-R: Edite el lote y ajuste la cantidad disponible a 0. Documente el motivo en observaciones.
-
-**P: ¿Puedo transferir artículos entre lotes?**
-R: No. Cada lote es independiente. Si necesita consolidar, registre una nueva asistencia interna (ajuste).
-
-### Apadrinamientos
-
-**P: ¿Una familia puede tener dos padrinos al mismo tiempo?**
-R: No. Una familia solo puede tener un apadrinamiento activo a la vez. Debe finalizar el primero para asignar otro.
-
-**P: ¿Un donador puede apadrinar múltiples familias?**
-R: Sí, un donador puede apadrinar tantas familias como desee.
-
-**P: ¿Cuándo debo finalizar un apadrinamiento?**
-R: Cuando el estudio socioeconómico muestre que la familia es autosuficiente (ingresos > gastos de forma estable).
-
----
-
-## 8. Solución de Problemas
-
-### Problemas de Acceso
-
-**Problema:** No puedo iniciar sesión
-**Soluciones:**
-1. Verifique usuario y contraseña (mayúsculas/minúsculas)
-2. Asegúrese de que su cuenta esté activa (contacte al administrador)
-3. Limpie caché del navegador (Ctrl + Shift + Del)
-4. Intente con otro navegador
-
-**Problema:** La página no carga
-**Soluciones:**
-1. Verifique su conexión a Internet/red
-2. Verifique que el servidor esté encendido
-3. Contacte al administrador o soporte técnico
-
-### Problemas de Captura
-
-**Problema:** No puedo guardar un registro
-**Soluciones:**
-1. Revise que todos los campos obligatorios estén llenos
-2. Verifique que los formatos sean correctos (fechas, números)
-3. Revise mensajes de error en pantalla
-4. Intente refrescar la página (F5)
-
-**Problema:** Un registro duplicado
-**Soluciones:**
-1. Busque si ya existe antes de crear nuevo
-2. Si creó duplicado por error, contacte al administrador para eliminar
-
-### Problemas de Inventario
-
-**Problema:** El stock mostrado no coincide con el físico
-**Soluciones:**
-1. Realice un inventario físico
-2. Revise el historial de movimientos
-3. Identifique la discrepancia
-4. Contacte al administrador para ajuste (debe estar documentado)
-
-**Problema:** No aparece un artículo en el menú desplegable
-**Soluciones:**
-1. Verifique que el artículo esté registrado en el catálogo
-2. Verifique que tenga stock disponible
-3. Refresque la página
-
-### Problemas de Reportes
-
-**Problema:** Un reporte no genera datos
-**Soluciones:**
-1. Verifique que existan datos en el rango de fechas seleccionado
-2. Ajuste los filtros
-3. Intente con un rango más amplio
-
-**Problema:** El PDF no se descarga
-**Soluciones:**
-1. Verifique que su navegador permita descargas
-2. Desactive bloqueadores de pop-ups para este sitio
-3. Intente con otro navegador
-
----
-
-## 9. Glosario
-
-**Apadrinamiento:** Relación en la que un donador (padrino) se compromete a cubrir los gastos de una familia beneficiada.
-
-**Asistencia:** Entrega de artículos o ayuda a una familia beneficiada.
-
-**Beneficiado:** Persona que recibe ayuda de la organización. Miembro de una familia registrada.
-
-**Desastre:** Evento natural que afecta negativamente a comunidades y requiere asistencia humanitaria.
-
-**Donador:** Persona o empresa que realiza donaciones a la organización.
-
-**Donación en Especie:** Donación de bienes materiales (no dinero).
-
-**Donación Mixta:** Donación que incluye tanto dinero como bienes materiales.
-
-**Donación Monetaria:** Donación de dinero en efectivo, cheque o transferencia.
-
-**Estudio Socioeconómico:** Evaluación de la situación financiera de una familia para determinar necesidades.
-
-**FIFO (First In, First Out):** Método de rotación de inventario donde lo primero que entra es lo primero que sale.
-
-**Fondo:** Cuenta donde se concentran donaciones monetarias para un propósito específico.
-
-**Jefe de Familia:** Persona principal responsable de una familia beneficiada.
-
-**Lote:** Conjunto de unidades de un artículo que ingresó al inventario en una fecha específica.
-
-**Padrino:** Donador que apadrina una familia.
-
-**Perecedero:** Artículo que tiene fecha de vencimiento (alimentos, medicamentos).
-
-**Stock:** Cantidad de unidades disponibles de un artículo en el inventario.
-
----
-
-## Información de Contacto
-
-**Soporte Técnico:**
-- Email: soporte@organizacion.org
-- Teléfono: 2222-2222
-- Horario: Lunes a Viernes, 8:00 AM - 5:00 PM
-
-**Administrador del Sistema:**
-- Contacte al departamento de TI de su organización
-
-**Capacitación:**
-- Solicite sesiones de capacitación con su supervisor
-
----
-
-**Fin del Manual de Usuario**
-
-*Este manual está sujeto a actualizaciones. Versión 1.0 - Octubre 2025*
